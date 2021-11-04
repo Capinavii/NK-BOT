@@ -1,11 +1,11 @@
 {
 	"prefijo": ".",
-	"BotControlador": "51995386439@s.whatsapp.net",
-	"CoCreador": "Matt_M",
-	"VCardX": "+51995386439",
-	"VCardY": "+51 995 386 439",
+	"BotControlador": "593963359065@s.whatsapp.net",
+	"CoCreador": "Daniel",
+	"VCardX": "+593963359065",
+	"VCardY": "+593 96 335 9065",
 	"NombreBot": "NK-BOT",
-	"LimiteEnGrupos": "2",
-	"LimiteComandos": "666999",
+	"LimiteEnGrupos": "6",
+	"LimiteComandos": "6669999",
 	"TusRedesSociales": "~>[TuCanalDeYoutube]\n~>[PaginaDeFacebook]\n~>[TusOtrasRedesSociales...]"
 }
